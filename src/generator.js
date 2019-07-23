@@ -55,5 +55,5 @@ function put(targetEl) {
 }
 
 
-export { generator }
+export default  generator
 

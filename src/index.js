@@ -1,5 +1,5 @@
-import {headline} from './headline';
-import {generator} from './generator';
+import headline from './headline';
+import generator from './generator';
 
 start();
 
